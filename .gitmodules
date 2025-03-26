@@ -1,0 +1,3 @@
+[submodule "WRF"]
+	path = WRF
+	url = https://github.com/wrf-model/WRF
