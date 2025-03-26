@@ -4,3 +4,6 @@
 [submodule "WPS"]
 	path = WPS
 	url = https://github.com/wrf-model/WPS
+[submodule "wrf_dependencies"]
+	path = wrf_dependencies
+	url = https://gist.github.com/islas/b76171591531d3a06e209cd1ff75840c
